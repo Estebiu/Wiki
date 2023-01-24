@@ -185,7 +185,9 @@ If you download using a BitTorrent client, the process is slightly different:
 > If both \*Arr and your Download Client are Docker Containers it is rare a remote path map is needed. It is suggested you [review the Docker Guide](/docker-guide) and/or [follow TRaSH's Tutorial](https://trash-guides.info/hardlinks)
 {.is-info}
 
-# Import Lists
+# Import Files
+
+If you already have some music files downloaded locally by your download client in a folder that is NOT the root folder of Lidarr's Music Library and wish to import them on Lidarr all you need to do is click on "Add New" in your library; add however artist's music you already have stored locally and next navigate to the "Wanted" menu. There it'll be possible to manually map the albums to your files.
 
 > Information on supported list types can be found at the [More Info (Supported)](/lidarr/supported#lists) page for this section
 {.is-info}
